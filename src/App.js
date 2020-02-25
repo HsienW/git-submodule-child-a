@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Hello I'm submodules child a
         </a>
       </header>
     </div>
