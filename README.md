@@ -1,4 +1,4 @@
-## I'm Submodule Child A
+# I'm Submodule Child A
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
